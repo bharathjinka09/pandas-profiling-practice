@@ -1,3 +1,0 @@
-#!/home/mieone/Downloads/pandasProfilingPrac/venv/bin/python
-from numba.pycc import main
-main()
